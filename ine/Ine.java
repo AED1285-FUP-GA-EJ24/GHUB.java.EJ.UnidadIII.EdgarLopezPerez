@@ -15,7 +15,7 @@ public class Ine {
         System.out.println("Proporciona Año Actual: ");
         añoActual = teclado.nextInt();
         System.out.println("Proporciona Año Nacimiento: ");
-        añoNacimiento = teclado.nextInt();
+        
 
         años = añoActual - añoNacimiento;
 

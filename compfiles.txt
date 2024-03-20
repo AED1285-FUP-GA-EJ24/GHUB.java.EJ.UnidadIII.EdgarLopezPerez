@@ -1,3 +1,5 @@
+./hermanos/Hermanos.java
+./hermanos/Principal.java
 ./miTest/AppTest.java
 ./ine/Ine.java
 ./ine/Principal.java
